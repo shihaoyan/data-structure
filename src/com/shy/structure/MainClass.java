@@ -5,7 +5,7 @@ package com.shy.structure;
  * @createDate 2020/9/26 20:01
  * 描述:创建主类
  */
-public class Main {
+public class MainClass {
     public static void main(String[] args) {
 
     }
